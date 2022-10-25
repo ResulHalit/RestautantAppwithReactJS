@@ -27,6 +27,20 @@
 .App-link {
   color: #61dafb;
 }
+.search-button{
+  background-color: #61dafb;
+  border-color: aqua;
+  border-radius: 3px;
+  
+}
+.search-button:hover{
+  background-color: aquamarine;
+  cursor: pointer;
+}
+.search-form{
+  margin-top: 25px;
+}
+
 
 @keyframes App-logo-spin {
   from {
